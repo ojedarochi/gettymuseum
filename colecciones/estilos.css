@@ -1,0 +1,47 @@
+body{
+    font-family: 'Jost', sans-serif;
+}
+
+h2{
+    font-size:18px;
+}
+
+
+.btn-primary{
+    background-color: #E20079
+}
+
+.btn{
+    font-family: 'Jost', sans-serif;
+}
+
+
+
+h1{
+
+    color: #E20079;
+}
+
+nav{
+    background-color: #f39400;
+}
+
+.btn-reg{
+    background-color: #E20079;
+}
+
+.btn-reg:hover{
+    background-color: #c6036b;
+}
+
+#footer{
+    background-color: antiquewhite;
+}
+
+.btn-sus{
+    background-color: orange;
+}
+
+.btn-sus:hover{
+    background-color: bisque;
+}

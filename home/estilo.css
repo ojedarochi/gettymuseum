@@ -1,0 +1,55 @@
+nav{
+    background-color: #f39400;
+}
+nav .nav-link{
+    color: rgb(255, 255, 255);
+}
+nav .nav-link:hover{
+    color: #cf461c;
+}
+.btn-reg{
+    background-color: #cf461c;
+}
+.btn-reg:hover{
+    background-color: #ffab24;
+}
+
+.btn-dark{
+    background-color: #f39400;
+    border: none;
+}
+.btn-dark:hover{
+    background-color: #ffab24;
+}
+
+h1{
+    text-shadow: 1rem;
+}
+.cards-wrapper{
+    display: flex;
+}
+
+#exposicion-destacada{
+    background-color: antiquewhite;
+}
+
+body{
+    font-family: 'jost';
+}
+
+
+#news h2{
+    font-weight: bold;
+}
+
+h2{
+    font-weight: bold;
+}
+
+#footer{
+    background-color: antiquewhite;
+}
+
+.cards-wrapper .card{
+border-color: #e20079;
+}

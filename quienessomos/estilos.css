@@ -1,0 +1,56 @@
+body{
+    font-family: 'Jost', sans-serif;
+background-color: rgb(245, 245, 245);
+}
+
+
+nav{
+background-color:#261F27;
+}
+
+nav .nav-link{
+color:#E6DACB;
+  }
+
+nav .nav-link:hover{
+color: #a86b09;}
+
+.btn-reg{
+background-color: #E20079;
+}
+
+.btn-reg:hover{background-color: #E6352C;
+}
+
+.card1{
+  background-color: #E6352C ; 
+  color: #f0eef0;
+}
+
+.card2{
+  background-color: #F39400; ; 
+  color: #261F27;
+}
+
+.card3{
+    background-color:#E6DACB; 
+    color: #261F27;
+}
+
+.accordion-item{
+  background-color:#E6DACB; 
+  color: #261F27;
+}
+
+
+h2{
+  font-family:jost black;
+}
+
+.strongtitulo{
+  color: #E20079;
+}
+
+#footer{
+  background-color: rgb(228, 227, 227);
+}

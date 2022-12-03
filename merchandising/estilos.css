@@ -1,0 +1,63 @@
+body{
+    font-family: 'Jost', sans-serif;
+background-color: rgb(245, 245, 245);
+}
+
+
+
+
+
+.btn-reg{
+background-color: #E20079;
+       }
+
+.btn-reg:hover{
+ background-color: #E6352C;
+ }
+
+ .card1{
+  background-color: #f3efe8;
+  color: #261F27;
+ }
+
+ .card2{
+  background-color:#f3efe8;
+  color: #261F27;
+}
+
+.card3{
+    background-color:#f3efe8;
+    color: #261F27;
+}
+
+.card4{
+    background-color:#f3efe8;
+    color: #261F27;
+}
+.card5{
+    background-color:#f3efe8;
+    color: #261F27;
+}
+
+.card6{
+    background-color:#f3efe8;
+    color: #261F27;
+}
+
+
+h5{
+    font:jost black;
+    color: #E20079;
+  }
+
+.strongtitulo{
+  color: #E20079;
+}
+
+nav{
+  background-color: #E6352C;
+}
+
+#footer{
+  background-color: rgb(231, 229, 226);
+}
